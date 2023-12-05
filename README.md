@@ -1,16 +1,16 @@
-### Hi there 👋
+Full Stack Software Developer currently working towards a Bachelor's of Computer Science at the University of Central Florida.
+Passionate about developing software that is maximalist in it's scope and functionality yet appears and feels minimalist to the end user.
+> "Good design is invisible, bad design is everywhere." \
+>  - Dieter Rams
 
-<!--
-**ju7ior/ju7ior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lover of all kinds of art, particularly furniture design, architecture and film ( you should browse my [pinterest](https://pin.it/7qNHkN3) for inspiration). Always looking for better, and/or different, ways to look at the world around me and it's problems, through curiosity, patience and philosophy.
+> “If light is scarce then light is scarce;
+> we will immerse ourselves in the darkness and there discover its own particular beauty.”
+>   - Jun'ichirō Tanizaki
 
-Here are some ideas to get you started:
+Feel welcome to reach out to me via the following: \
+Email: [elpidioconceicaojr@gmail.com](mailto:elpidioconceicaojr@gmail.com) \
+Twitter: [@fuelshimmer](https://twitter.com/fuelshimmer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently reading: The trouble with being born - Emil Cioran
+Film Reccomendation: [Mister Lonely (2007)](https://www.youtube.com/watch?app=desktop&v=pXMOhCo0m5Y)
