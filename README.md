@@ -3,7 +3,7 @@ Passionate about developing software that is maximalist in it's scope and functi
 > "Good design is invisible, bad design is everywhere." 
 >  - Dieter Rams
 
-Lover of all kinds of art, particularly furniture design, architecture and film ( [Pinterest](https://pin.it/7qNHkN3) for inspiration). Always looking for better, and/or different, ways to look at the world around me and it's problems, through curiosity, patience and philosophy.
+Lover of all kinds of art, particularly furniture design, architecture and film ( [Pinterest](https://pin.it/7qNHkN3) for inspiration). Always looking for better, and/or different, ways to look at the world around me and it's problems, through curiosity, patience, philosophy and science.
 > “If light is scarce then light is scarce;
 > we will immerse ourselves in the darkness and there discover its own particular beauty.”
 >   - Jun'ichirō Tanizaki
